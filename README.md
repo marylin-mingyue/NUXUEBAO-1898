@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6cabf6e4-69ac-4d73-b486-7d9658dc9aea)## Project Title
+## Project Title
 《女学报》数据统计
 ## Description
 《女学报》是中国第一本妇女报刊，由于时代因素和保存原因，版本难寻，笔者目力所见影印藏本污损较为严重，给数据统计带来了极大困难，基于此，尚未有学人专门针对《女学报》的篇幅、作者、主题进行统计和归纳。本开源项目借助Computer Vision 和 AI 希望为历史研究提供些许便利，帮助读者群体在此基础上进行补充研究，减少他们的工作量。
@@ -80,4 +80,4 @@ Institute of Chinese Studies, Heidelberg
 
 
 实在难以辨认，希望后续补充。
-该章链接附于此处: [ISSUE 8] (https://ecpo.cats.uni-heidelberg.de/ecpo/publications.php?magid=238&isid=31422)
+该章链接附于此处: [ISSUE 8](https://ecpo.cats.uni-heidelberg.de/ecpo/publications.php?magid=238&isid=31422)

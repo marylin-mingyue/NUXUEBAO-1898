@@ -13,8 +13,8 @@ Institute of Chinese Studies, Heidelberg
 | 潘璇  | 上海女学报序  |
 | 佚名  | 女学报序  |
 | 佚名 | 中国女学堂接林总夫人书 |
-第二期 ISSUE No.2
 
+第二期 ISSUE No.2
 | 作者  | 题目 |
 | ------------- | ------------- |
 | 潘璇  | 论本报为女学忠见  |

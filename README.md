@@ -29,6 +29,7 @@ Institute of Chinese Studies, Heidelberg
 | 番禺女士许孚  | 女学堂记  |
 | 康同薇 | 劝女兴学 |
 | 张蕴华 | 劝设女塾书 |
+| 张蕴华 | 论设立女子师范学堂之必要 |
 
 第三期 ISSUE No.3
 | 作者  | 题目 |
@@ -38,6 +39,7 @@ Institute of Chinese Studies, Heidelberg
 | 佚名 | 太后出游 |
 | 上海潘仰蘭女史 | 论女学报难处和中外女子相助的理法 |
 | 佚名    | 狄女士书 |
+| 李蕙仙   | 劝女子亟宜求学说 |
 
 第四期 ISSUE No.4
 | 作者  | 题目 |
